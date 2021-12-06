@@ -6,7 +6,8 @@ A curated list of awesome [Craft](https://www.craft.do/) resources growthing wit
 
 ## extensions
 
-- [craft-x-table-of-content](https://github.com/itshxu/craft-x-table-of-content) - A simple table of content plugin
+- [craft42-readwise](https://github.com/TfTHacker/craft42-readwise) - Import highlights from Readwise to Craft
+- [craft-x-table-of-content](https://github.com/itshxu/craft-x-table-of-content) - Table of content plugin for pages
 
 ## workflows
 
