@@ -9,6 +9,7 @@ A curated list of awesome [Craft](https://www.craft.do/) resources growthing wit
 - [craft42-readwise](https://github.com/TfTHacker/craft42-readwise) - Import highlights from Readwise to Craft
 - [craft-todoist](https://github.com/thomaszdxsn/craft-todoist) - Todoist extension for Craft
 - [craft-x-table-of-content](https://github.com/itshxu/craft-x-table-of-content) - Table of content plugin for pages
+- [craft-toc-maker](https://github.com/timpcfan/craft-toc-maker) - Another Table of content plugin for inserting ToC into notes
 
 ## workflows
 
