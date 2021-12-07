@@ -14,3 +14,4 @@ A curated list of awesome [Craft](https://www.craft.do/) resources growthing wit
 ## workflows
 
 - [How I Use Craft for My Zettelkasten/Evergreen Notes](https://jessejanderson.com/posts/how-i-use-craft-for-my-zettelkasten-evergreen-notes) by [Jesse J. Anderson](https://jessejanderson.com/)
+- [Hacking "Tools for Thought" Journal](https://www.craft.do/s/JxGqtPMkM8veTK) by [TfTHacker](https://twitter.com/tfthacker)
